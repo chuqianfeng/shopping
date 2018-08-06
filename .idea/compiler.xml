@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopping-api" />
+        <module name="shopping-common" />
+        <module name="shopping-eurekaserver" />
+        <module name="shopping-member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shopping-api" target="1.7" />
+      <module name="shopping-common" target="1.7" />
+      <module name="shopping-eurekaserver" target="1.7" />
+      <module name="shopping-member" target="1.7" />
+      <module name="shopping-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
