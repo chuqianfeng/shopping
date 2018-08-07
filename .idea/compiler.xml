@@ -17,7 +17,7 @@
       <module name="shopping-common" target="1.7" />
       <module name="shopping-eurekaserver" target="1.7" />
       <module name="shopping-member" target="1.7" />
-      <module name="shopping-parent" target="1.5" />
+      <module name="shopping-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
